@@ -1,0 +1,5 @@
+*.bin
+!requirements.txt
+*.pt
+*.pth
+__pycache__/
