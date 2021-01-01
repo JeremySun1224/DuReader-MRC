@@ -1,5 +1,5 @@
 # DuReader-MRC
-该仓库是基于多种预训练语言模型微调的DuReader以及模型集成，您可以按照[DuReader_local.ipynb](https://github.com/JeremySun1224/DuReader-MRC/blob/main/DuReader_local.ipynb)复现结果。
+该仓库是基于多种预训练语言模型微调的DuReader以及模型集成，您可以按照[RUNDuReaderColab.ipynb](https://github.com/JeremySun1224/DuReader-MRC/blob/main/RUNDuReaderColab.ipynb)复现结果。
 
 ## 优化1：对抗训练
 - 动机：采用对抗训练缓解模型鲁棒性差的问题，提升模型泛化能力
